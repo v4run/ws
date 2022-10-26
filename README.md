@@ -1,4 +1,4 @@
-# Switch worktrees with ease
+# Switch git worktrees with ease
 
 ## ws - Prints a menu to choose a git worktree
 
