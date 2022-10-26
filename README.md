@@ -1,6 +1,6 @@
 # Switch worktrees with ease
 
-## ws - Prints a menu to choose a workspace
+## ws - Prints a menu to choose a git worktree
 
 [![asciicast](https://asciinema.org/a/531887.svg)](https://asciinema.org/a/531887)
 
