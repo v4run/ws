@@ -18,6 +18,7 @@ import (
 type AppState struct {
 	ShowRelativePath     bool
 	SwitchToWorktreeRoot bool
+	CurrentIndex         int
 }
 type App struct {
 	activeWorktreeRootPath string
